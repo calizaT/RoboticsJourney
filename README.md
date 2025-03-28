@@ -1,4 +1,4 @@
-# Robotics Journey Mentorship Program
+# Robotics Journey
 
 Welcome to the Robotics Journey repository! This project is being developed to be used in the frame of a mentorship program, part of the **[STG Talent Girl](https://talent-girl.com/)** initiative.
 
