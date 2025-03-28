@@ -4,20 +4,21 @@
 [Insert Project Title Here]
 
 ## Project Goals
-- **Objective**: 
+- **Objective**: hacer un robot que camine y baile
   - Example: "[Define the main objective of the project.]"
   
-- **Target Audience**: 
+- **Target Audience**: ninios y adultos que les guste baile
   - Example: "[Identify who will benefit from or use the robot.]"
 
-- **Success Criteria**: 
+- **Success Criteria**: opinion de los que lo compren, satisfacción
   - Example: "[Define how success will be measured.]"
 
 ## Project Scope
-- **Inclusions**: 
+- **Inclusions**: que se pueda usar el jardín (exterior pero acceso controlado)
+          
   - Example: "[Outline what will be included in the project.]"
 
-- **Exclusions**: 
+- **Exclusions**: no uso al aire libre
   - Example: "[Specify what is not included in the project.]"
 
 - **Timeline**: 
