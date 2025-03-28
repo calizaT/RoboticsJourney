@@ -3,7 +3,7 @@
 Welcome to the Robotics Journey repository! This project is being developed to be used in the frame of a mentorship program, part of the **[STG Talent Girl](https://talent-girl.com/)** initiative.
 
 ## Mentor
-**Marta Alvarez Rojos**  
+**Marta Alvarez Rojo**  
 Email: [marta@alvarezdecaldas.com](mailto:marta@alvarezdecaldas.com)
 
 ## Session Overview
