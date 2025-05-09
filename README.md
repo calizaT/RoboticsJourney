@@ -15,4 +15,6 @@ The program consists of four sessions:
 
 
 ## Getting Started
-Explore the folders for each session, which contain documentation, code, and resources to support the learning journey. Feel free to contribute as we embark on this exciting robotics adventure!
+In Templates folder you will find a summary of each sessions as well as the templates to use in your project.
+The rest of the folders are project folders with the templates used for one specific folder.
+Explore it, you will find documentation, code, and resources to support the learning journey. Feel free to contribute as we embark on this exciting robotics adventure!
