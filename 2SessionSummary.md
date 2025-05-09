@@ -1,4 +1,4 @@
-# Session Summary: Desgin and Prototype
+# Session Summary: Design and Prototype
 ## Objectives of Mentoring Session
 - Understand the importance of conceptual design in robotics
 - create a preliminary sketcg if tge ribit
